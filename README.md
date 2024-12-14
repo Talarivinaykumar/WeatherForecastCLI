@@ -2,7 +2,7 @@
 Simulate a weather forecast system that allows users to input a city and get a random weather forecast.
 
 
-### Description and Working Procedur
+### Description and Working Procedure
 
 The "Weather Forecast CLI Application" is a console-based Java program designed to simulate a basic weather forecast system. The application allows users to input the name of a city, and it provides a random weather forecast (e.g., sunny, rainy, cloudy, etc.) for that city. Here's a detailed explanation of how the program works and its components:
 
